@@ -1,0 +1,12 @@
+Province_1,Province_2,Metric,p_value,Reject_H0,Gender_1,Gender_2
+ON,BC,ClaimFrequency,,False,,
+ON,MB,ClaimFrequency,,False,,
+ON,QC,ClaimFrequency,,False,,
+ON,AB,ClaimFrequency,,False,,
+BC,MB,ClaimFrequency,,False,,
+BC,QC,ClaimFrequency,,False,,
+BC,AB,ClaimFrequency,,False,,
+MB,QC,ClaimFrequency,,False,,
+MB,AB,ClaimFrequency,,False,,
+QC,AB,ClaimFrequency,,False,,
+,,ClaimFrequency,,False,Male,Female
